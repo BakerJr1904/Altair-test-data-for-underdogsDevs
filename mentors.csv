@@ -1,0 +1,31 @@
+,mentor_intake_id,first_name,last_name,email,profile_id,gender,veteran_status,intention,tech_stack,known_languages,career_development,years_programming,date_submitted
+0,1,Vance,Reyes,Vance_Reyes@hotmail.com,1018249025039571457,Male,False,Programming Readiness,Web Development,Meteor.js,None,44,2021-12-03
+1,2,Albert,Cruz,Albert_Cruz@myspace.com,5699413831180999522,Female,False,Programming Readiness,Web3,Web3.py,None,26,2020-10-26
+2,3,Lawrence,Wood,Lawrence_Wood@gmail.com,6622073680125366503,Female,True,Programming Readiness,Web Development,"Express.js, React, Node.js, NoSQL",None,11,2020-12-30
+3,4,Julian,Mitchell,Julian_Mitchell@gmail.com,4270716210650799013,Non-binary,False,Career Readiness,None,None,"['Job Searching', 'Resume Help', 'Interview Preperation']",36,2020-02-25
+4,5,Quincy,Mitchell,Quincy_Mitchell@aol.com,7386907012876761539,Female,False,Programming Readiness,Backend,"PHP, JavaScript, Python, Java, C#, C, C++, Go",None,11,2020-04-17
+5,6,Baylor,Patel,Baylor_Patel@hotmail.com,4990353153874009006,Non-binary,False,Career Readiness,None,None,['Interview Preperation'],36,2020-03-05
+6,7,Rudy,Walker,Rudy_Walker@aol.com,5344793150986551738,Male,False,Programming Readiness,Web Development,"HTML, CSS, JS",None,16,2021-05-24
+7,8,Marina,Kim,Marina_Kim@myspace.com,9092908692890898093,Male,False,Programming Readiness,Android,Java,None,31,2020-07-13
+8,9,Bryson,Peterson,Bryson_Peterson@icloud.com,2253674789162704899,Male,False,Life Coaching,None,None,None,41,2020-08-20
+9,10,Kallie,Castillo,Kallie_Castillo@hotmail.com,5534352454563846614,Female,False,Programming Readiness,Data Science,"R, Python, NoSQL, SQL",None,22,2021-10-31
+10,11,Remi,Edwards,Remi_Edwards@myspace.com,6345718098364118501,Non-binary,False,Programming Readiness,Web Development,"Express.js, Vue.js, Node.js, NoSQL",None,40,2020-02-25
+11,12,Madeleine,James,Madeleine_James@yahoo.com,7417441132647424787,Male,False,Programming Readiness,Data Science,"R, Python, NoSQL, SQL",None,24,2021-10-04
+12,13,Bridger,Ramos,Bridger_Ramos@gmail.com,3225199092599972146,Non-binary,False,Programming Readiness,Backend,"PHP, JavaScript, Python, Java, C#, C, C++, Go",None,33,2020-09-13
+13,14,Quincy,Hall,Quincy_Hall@aol.com,3401670501382789169,Non-binary,False,Programming Readiness,Backend,"PHP, JavaScript, Python, Java, C#, C, C++, Go",None,39,2020-06-12
+14,15,Dario,Roberts,Dario_Roberts@gmail.com,8493446038670888345,Female,False,Programming Readiness,Android,Java,None,41,2020-01-14
+15,16,Cullen,Campbell,Cullen_Campbell@myspace.com,5753706311386362564,Female,False,Programming Readiness,Data Science,R,None,40,2021-10-24
+16,17,Desmond,Lee,Desmond_Lee@hotmail.com,5009600155427433502,Female,False,Programming Readiness,Data Science,R,None,23,2021-04-05
+17,18,Milo,Hughes,Milo_Hughes@aol.com,1277846877645382724,Female,False,Career Readiness,None,None,"['Job Searching', 'Resume Help', 'Interview Preperation']",12,2020-11-13
+18,19,Cayson,Gomez,Cayson_Gomez@gmail.com,6580643608658919146,Male,False,Programming Readiness,Web Development,Fultter,None,38,2021-02-20
+19,20,Galilea,Alvarez,Galilea_Alvarez@icloud.com,3718999376561765441,Female,False,Career Readiness,None,None,"['Resume Help', 'Interview Preperation', 'Job Searching']",33,2020-01-09
+20,21,Kairo,Howard,Kairo_Howard@aol.com,9113730961876925225,Female,False,Programming Readiness,Web Development,Fultter,None,36,2020-08-11
+21,22,Dion,Smith,Dion_Smith@gmail.com,7258293923083952803,Non-binary,False,Programming Readiness,Web Development,"Linux, Apache, MySQL, PHP",None,19,2020-10-04
+22,23,Leighton,Green,Leighton_Green@gmail.com,8988803163045804356,Non-binary,False,Career Readiness,None,None,['Resume Help'],39,2020-04-28
+23,24,Summer,Adams,Summer_Adams@aol.com,124341574827217114,Non-binary,False,Programming Readiness,Web3,"Web3.js, ether.js, oo7.js, Rust",None,31,2021-07-16
+24,25,Lyla,Adams,Lyla_Adams@gmail.com,7744338406463669554,Female,False,Programming Readiness,Web Development,"Express.js, React, Node.js, NoSQL",None,17,2020-09-21
+25,26,Bjorn,Martin,Bjorn_Martin@gmail.com,72185397979898335,Male,False,Programming Readiness,Web Development,Meteor.js,None,12,2020-06-25
+26,27,Yousef,Lee,Yousef_Lee@aol.com,7873495457329085458,Non-binary,False,Programming Readiness,Data Science,"R, SQL, MySQL",None,29,2021-07-16
+27,28,Selah,Kim,Selah_Kim@gmail.com,8733058392812574690,Male,False,Programming Readiness,Web Development,Meteor.js,None,24,2021-11-12
+28,29,Trenton,Jimenez,Trenton_Jimenez@hotmail.com,4566619728830268987,Non-binary,False,Career Readiness,None,None,['Interview Preperation'],32,2020-10-01
+29,30,Julio,Adams,Julio_Adams@hotmail.com,6094876091840880394,Male,False,Career Readiness,None,None,['Job Searching'],24,2021-07-07

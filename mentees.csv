@@ -1,0 +1,251 @@
+,mentee_intake_id,first_name,last_name,email,profile_id,gender,formerly_incarcerated,convictions_list,veteran_status,intention,tech_stack,career_development,known_languages,date_submitted
+0,1,Winston,Reed,Winston_Reed@myspace.com,2781024714661041477,Male,True,"['First Offense Prostitution', 'Resisting an Officer without Violence']",False,Programming Readiness,Data Science,None,None,2021-12-24
+1,2,Clayton,Perez,Clayton_Perez@yahoo.com,5411098477944077633,Female,True,"['Battery on Law Enforcement Officer', 'Tax Evasion', 'Drug Possession']",False,Career Readiness,None,['Interview Preperation'],None,2021-03-03
+2,3,Kathryn,Kelly,Kathryn_Kelly@myspace.com,275887507625650233,Female,True,"['Tax Evasion', 'Battery', 'Agrivated Assult']",False,Programming Readiness,Web3,None,None,2020-09-18
+3,4,Taylor,Bennet,Taylor_Bennet@gmail.com,4434751039304654789,Female,True,"['Driving on a Suspended License', 'Battery on Law Enforcement Officer', 'Resisting an Officer without Violence', 'Homicide']",False,Career Readiness,None,['Resume Help'],None,2021-07-19
+4,5,Iker,Robinson,Iker_Robinson@icloud.com,4387769754891819622,Non-binary,True,"['Tax Evasion', 'Agrivated Assult', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Backend,None,None,2020-01-23
+5,6,Cory,Morgan,Cory_Morgan@aol.com,5533477046168175917,Non-binary,True,"['Battery on Law Enforcement Officer', 'Marijuana Possession', 'Aggrivated Battery', 'Agrivated Assult']",False,Programming Readiness,Data Science,None,None,2020-07-14
+6,7,Leon,Ross,Leon_Ross@myspace.com,7054492486990369460,Female,True,"['Petit Theft', 'Aggrivated Battery']",False,Programming Readiness,Web Development,None,None,2020-07-19
+7,8,Julian,Hernandez,Julian_Hernandez@yahoo.com,3758234162447022538,Male,False,None,False,Career Readiness,None,"['Job Searching', 'Resume Help']",Python,2020-01-18
+8,9,Theo,Nguyen,Theo_Nguyen@yahoo.com,9119441338771557298,Non-binary,True,"['Battery on Law Enforcement Officer', 'First Offense Prostitution', 'Driving on a Suspended License']",False,Programming Readiness,Android,None,None,2020-04-27
+9,10,Micah,Campbell,Micah_Campbell@hotmail.com,4403213428016687624,Female,True,"['Agrivated Assult', 'Petit Theft', 'Loitering and Prowling']",False,Programming Readiness,Backend,None,None,2021-10-23
+10,11,Grant,Lewis,Grant_Lewis@yahoo.com,3882359898344720041,Non-binary,True,"['Homicide', 'Battery', 'Loitering and Prowling', 'Tax Evasion']",False,Programming Readiness,IOS,None,None,2020-07-15
+11,12,Caroline,James,Caroline_James@aol.com,5393557772329615229,Non-binary,True,['Driving on a Suspended License'],True,Programming Readiness,IOS,None,Java,2020-08-06
+12,13,Demetrius,Taylor,Demetrius_Taylor@aol.com,4839314333815779201,Non-binary,True,"['Battery', 'Felony Battery']",False,Programming Readiness,Web3,None,None,2020-03-03
+13,14,Malakai,Reyes,Malakai_Reyes@aol.com,6285057559294001601,Female,True,"['Homicide', 'Driving on a Suspended License', 'Felony Battery']",False,Career Readiness,None,"['Resume Help', 'Job Searching', 'Interview Preperation']",None,2020-11-23
+14,15,Jeremiah,Murphy,Jeremiah_Murphy@gmail.com,3859194828166890967,Female,False,None,False,Career Readiness,None,"['Interview Preperation', 'Resume Help', 'Job Searching']",None,2020-10-03
+15,16,Andy,White,Andy_White@aol.com,4271202055930697644,Female,True,"['Tax Evasion', 'Agrivated Assult', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Web3,None,None,2020-10-09
+16,17,Carter,Martin,Carter_Martin@yahoo.com,1154271955977424656,Male,True,"['Marijuana Possession', 'First Offense Prostitution', 'Aggrivated Battery', 'Battery']",False,Programming Readiness,Web3,None,None,2020-05-10
+17,18,Henrik,Reyes,Henrik_Reyes@aol.com,1526541852519478610,Non-binary,True,"['Battery on Law Enforcement Officer', 'Battery', 'Resisting an Officer without Violence']",False,Programming Readiness,Web3,None,HTML,2021-05-16
+18,19,Jamari,Young,Jamari_Young@gmail.com,7172368747111418312,Male,True,['Resisting an Officer without Violence'],False,Career Readiness,None,"['Resume Help', 'Interview Preperation']",Java,2020-06-30
+19,20,Royce,Johnson,Royce_Johnson@aol.com,2535544699870063603,Female,True,"['Marijuana Possession', 'Drug Possession', 'Battery', 'Felony Battery']",True,Programming Readiness,Android,None,Python,2021-08-19
+20,21,Emanuel,Cruz,Emanuel_Cruz@myspace.com,7581700873847704669,Non-binary,True,"['Driving on a Suspended License', 'Homicide', 'Resisting an Officer without Violence', 'Tax Evasion']",False,Career Readiness,None,['Job Searching'],None,2021-12-07
+21,22,Bryson,Thomas,Bryson_Thomas@yahoo.com,7221082590440695379,Male,True,"['Homicide', 'Marijuana Possession']",False,Programming Readiness,Web Development,None,Python,2020-02-28
+22,23,Brady,Morales,Brady_Morales@icloud.com,4225437056231711104,Non-binary,True,"['Resisting an Officer without Violence', 'Felony Battery', 'Loitering and Prowling', 'Tax Evasion']",False,Career Readiness,None,"['Job Searching', 'Resume Help', 'Interview Preperation']",None,2020-05-30
+23,24,Noemi,Hernandez,Noemi_Hernandez@gmail.com,6184775863745705144,Female,True,['Felony Battery'],False,Programming Readiness,Web Development,None,Python,2020-06-03
+24,25,Roberto,Martin,Roberto_Martin@hotmail.com,6860640124115649068,Female,True,['Agrivated Assult'],False,Programming Readiness,Data Science,None,None,2021-10-30
+25,26,Chloe,Taylor,Chloe_Taylor@yahoo.com,4054736383497726338,Male,True,"['Tax Evasion', 'Felony Battery']",False,Career Readiness,None,"['Interview Preperation', 'Job Searching']",None,2021-09-01
+26,27,Ledger,Edwards,Ledger_Edwards@yahoo.com,6207994731558042722,Male,True,"['Felony Battery', 'Battery on Law Enforcement Officer', 'Drug Possession', 'Resisting an Officer without Violence']",False,Programming Readiness,Data Science,None,None,2020-02-04
+27,28,Colby,Roberts,Colby_Roberts@yahoo.com,5270528572873501759,Female,True,['Resisting an Officer without Violence'],False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",None,2021-10-08
+28,29,Ariya,Rivera,Ariya_Rivera@myspace.com,6932333248199510090,Non-binary,True,"['Felony Battery', 'Petit Theft', 'Tax Evasion', 'Battery']",False,Programming Readiness,Data Science,None,None,2021-12-24
+29,30,Kaleb,Mitchell,Kaleb_Mitchell@hotmail.com,7170962026088893973,Non-binary,True,"['Petit Theft', 'First Offense Prostitution']",False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",None,2021-12-13
+30,31,Dior,Brooks,Dior_Brooks@gmail.com,1478448891991433260,Male,True,"['Petit Theft', 'Felony Battery', 'Homicide']",False,Programming Readiness,Android,None,None,2021-07-30
+31,32,Solomon,Phillips,Solomon_Phillips@myspace.com,4670965367886120226,Male,True,['Drug Possession'],False,Programming Readiness,Data Science,None,None,2020-01-24
+32,33,Keaton,James,Keaton_James@yahoo.com,7720582750452217500,Non-binary,False,None,False,Programming Readiness,Backend,None,None,2020-02-24
+33,34,Peyton,Moore,Peyton_Moore@yahoo.com,6423846117830970886,Male,True,"['Marijuana Possession', 'Driving on a Suspended License', 'Battery', 'Petit Theft']",False,Programming Readiness,Data Science,None,HTML,2021-11-24
+34,35,Iker,Stewart,Iker_Stewart@hotmail.com,2984711787979945777,Female,True,['Marijuana Possession'],False,Programming Readiness,Backend,None,None,2021-08-25
+35,36,Bishop,Flores,Bishop_Flores@myspace.com,145305624142568812,Non-binary,True,"['Homicide', 'Aggrivated Battery', 'First Offense Prostitution']",False,Programming Readiness,IOS,None,None,2020-01-07
+36,37,Ryan,Jimenez,Ryan_Jimenez@gmail.com,8321168276164947140,Male,False,None,False,Life Coaching,None,None,None,2020-02-09
+37,38,Jair,Evans,Jair_Evans@gmail.com,9035171259790241118,Non-binary,True,"['Battery', 'Petit Theft', 'Battery on Law Enforcement Officer', 'First Offense Prostitution']",False,Career Readiness,None,['Interview Preperation'],None,2020-11-07
+38,39,Aubriella,Mendoza,Aubriella_Mendoza@yahoo.com,2738367317219092318,Non-binary,True,['Driving on a Suspended License'],False,Programming Readiness,Web3,None,None,2020-03-17
+39,40,Bear,Watson,Bear_Watson@myspace.com,5048503956679015253,Non-binary,True,"['Felony Battery', 'Petit Theft', 'Battery on Law Enforcement Officer', 'Marijuana Possession']",False,Programming Readiness,IOS,None,None,2020-01-24
+40,41,Saul,Johnson,Saul_Johnson@yahoo.com,9213704470658783685,Female,True,"['Drug Possession', 'Felony Battery', 'Petit Theft', 'Homicide']",False,Career Readiness,None,"['Resume Help', 'Job Searching', 'Interview Preperation']",None,2020-06-26
+41,42,Abel,Long,Abel_Long@myspace.com,88856172842596796,Female,True,"['Driving on a Suspended License', 'Tax Evasion', 'Marijuana Possession', 'Battery']",False,Programming Readiness,Data Science,None,Python,2020-03-01
+42,43,Lucian,Ross,Lucian_Ross@yahoo.com,7595630430992842488,Male,True,"['Petit Theft', 'Aggrivated Battery', 'Marijuana Possession']",False,Career Readiness,None,"['Interview Preperation', 'Job Searching']",None,2020-05-05
+43,44,Louis,Phillips,Louis_Phillips@aol.com,4344693282398437883,Non-binary,True,"['Battery on Law Enforcement Officer', 'Resisting an Officer without Violence']",False,Life Coaching,None,None,Python,2020-04-16
+44,45,Lochlan,Lewis,Lochlan_Lewis@myspace.com,5500579642443123351,Male,True,"['Homicide', 'Tax Evasion', 'First Offense Prostitution']",False,Programming Readiness,Backend,None,Python,2021-07-26
+45,46,Santos,Baker,Santos_Baker@gmail.com,997160804671146023,Male,True,"['Marijuana Possession', 'Homicide']",False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",None,2020-02-11
+46,47,Gordon,Wood,Gordon_Wood@icloud.com,3472520796054781098,Female,True,['Driving on a Suspended License'],False,Career Readiness,None,"['Interview Preperation', 'Job Searching']",None,2021-12-16
+47,48,Caspian,Cooper,Caspian_Cooper@gmail.com,414676813060895134,Female,True,"['Agrivated Assult', 'Homicide']",False,Career Readiness,None,"['Resume Help', 'Interview Preperation']",None,2021-11-22
+48,49,Kannon,Diaz,Kannon_Diaz@gmail.com,3754024216667678458,Non-binary,True,"['Tax Evasion', 'Homicide', 'Felony Battery', 'Drug Possession']",False,Programming Readiness,Web3,None,None,2020-08-11
+49,50,Randy,Wood,Randy_Wood@icloud.com,5730301987914648582,Male,False,None,False,Programming Readiness,Backend,None,Python,2021-06-06
+50,51,Tru,Collins,Tru_Collins@icloud.com,4716800348005765758,Male,True,"['Loitering and Prowling', 'Tax Evasion', 'First Offense Prostitution', 'Battery']",False,Programming Readiness,IOS,None,None,2020-08-25
+51,52,Jair,Price,Jair_Price@aol.com,1167039997499361985,Female,True,"['Loitering and Prowling', 'Agrivated Assult']",False,Programming Readiness,Web3,None,None,2020-10-03
+52,53,Maci,Hill,Maci_Hill@yahoo.com,6469727693893279272,Male,True,['Tax Evasion'],False,Life Coaching,None,None,None,2020-11-28
+53,54,Andy,Wilson,Andy_Wilson@aol.com,4264943220914517204,Non-binary,True,"['Battery on Law Enforcement Officer', 'Petit Theft', 'Marijuana Possession', 'Aggrivated Battery']",False,Programming Readiness,Backend,None,Python,2021-08-31
+54,55,Niklaus,Hughes,Niklaus_Hughes@myspace.com,5505345233208066414,Female,False,None,False,Career Readiness,None,"['Resume Help', 'Job Searching', 'Interview Preperation']",None,2021-08-12
+55,56,Arian,Richardson,Arian_Richardson@aol.com,7880939294699225152,Female,True,"['Battery', 'Resisting an Officer without Violence']",False,Programming Readiness,Data Science,None,None,2020-02-11
+56,57,Dior,Cooper,Dior_Cooper@hotmail.com,714830663901552978,Non-binary,True,"['First Offense Prostitution', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Data Science,None,Java,2020-10-23
+57,58,Richard,Davis,Richard_Davis@icloud.com,5342158327363459659,Female,True,"['Marijuana Possession', 'Tax Evasion']",False,Career Readiness,None,"['Resume Help', 'Interview Preperation']",None,2021-12-03
+58,59,Deandre,Rivera,Deandre_Rivera@myspace.com,3622100657182524984,Male,True,"['Felony Battery', 'Driving on a Suspended License', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Backend,None,None,2021-03-24
+59,60,Cristian,Taylor,Cristian_Taylor@aol.com,2220507960915457688,Non-binary,True,['Resisting an Officer without Violence'],False,Programming Readiness,Backend,None,None,2021-11-10
+60,61,Aaron,Rogers,Aaron_Rogers@gmail.com,9202000464687165992,Male,True,"['Battery', 'Loitering and Prowling', 'Battery on Law Enforcement Officer']",False,Programming Readiness,IOS,None,Python,2021-07-25
+61,62,Vance,Chavez,Vance_Chavez@aol.com,3295187075695380290,Non-binary,True,"['Loitering and Prowling', 'Felony Battery', 'Resisting an Officer without Violence']",False,Career Readiness,None,"['Job Searching', 'Resume Help', 'Interview Preperation']",None,2020-07-02
+62,63,Asa,Rogers,Asa_Rogers@gmail.com,4215176789573708480,Male,True,"['Drug Possession', 'Resisting an Officer without Violence']",True,Programming Readiness,Web3,None,None,2021-12-10
+63,64,Jalen,Clark,Jalen_Clark@gmail.com,4062575632586239342,Non-binary,True,"['Drug Possession', 'Homicide']",False,Programming Readiness,Web3,None,None,2020-12-01
+64,65,Renata,Moore,Renata_Moore@myspace.com,392264758241616735,Non-binary,False,None,False,Career Readiness,None,"['Interview Preperation', 'Job Searching']",None,2020-03-23
+65,66,Landyn,Kelly,Landyn_Kelly@aol.com,6678627819765301328,Male,True,['Felony Battery'],False,Programming Readiness,Android,None,None,2020-08-20
+66,67,Matthias,Kim,Matthias_Kim@yahoo.com,6437123002174895457,Female,True,"['Battery', 'Drug Possession']",False,Programming Readiness,Web3,None,None,2020-01-14
+67,68,Carlos,Gray,Carlos_Gray@aol.com,504751095829936954,Female,True,"['Battery on Law Enforcement Officer', 'Driving on a Suspended License']",False,Career Readiness,None,['Resume Help'],Python,2021-09-30
+68,69,Maximus,Scott,Maximus_Scott@icloud.com,397417924135346662,Non-binary,True,"['Resisting an Officer without Violence', 'Marijuana Possession', 'Felony Battery', 'Homicide']",False,Programming Readiness,Android,None,Python,2021-10-24
+69,70,Trey,Foster,Trey_Foster@yahoo.com,1652475208536759653,Male,True,"['Battery', 'Aggrivated Battery']",False,Programming Readiness,IOS,None,Python,2021-12-12
+70,71,Langston,Wood,Langston_Wood@gmail.com,2749007969307994236,Female,True,"['Felony Battery', 'First Offense Prostitution', 'Loitering and Prowling', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Backend,None,None,2021-08-28
+71,72,Abel,Lee,Abel_Lee@gmail.com,1797655107789212908,Female,True,['Marijuana Possession'],False,Programming Readiness,Web Development,None,HTML,2020-10-20
+72,73,Conor,Flores,Conor_Flores@icloud.com,6988175401048801068,Female,False,None,False,Career Readiness,None,['Resume Help'],None,2020-07-27
+73,74,Dilan,Patel,Dilan_Patel@icloud.com,2214240729458536942,Male,True,"['Tax Evasion', 'Driving on a Suspended License', 'Homicide']",True,Programming Readiness,Backend,None,None,2020-01-23
+74,75,Bentlee,Morris,Bentlee_Morris@yahoo.com,2497914035884115824,Non-binary,True,"['Battery', 'First Offense Prostitution', 'Aggrivated Battery']",True,Programming Readiness,Web3,None,Java,2020-01-20
+75,76,Easton,Rodriguez,Easton_Rodriguez@aol.com,2666155057664846906,Male,True,"['Driving on a Suspended License', 'Resisting an Officer without Violence', 'Battery on Law Enforcement Officer', 'Petit Theft']",False,Programming Readiness,IOS,None,HTML,2020-02-23
+76,77,Dani,Brown,Dani_Brown@myspace.com,7666580301332393285,Female,True,['Tax Evasion'],False,Programming Readiness,Web Development,None,None,2021-03-19
+77,78,Elliot,Rogers,Elliot_Rogers@myspace.com,3204697762437005407,Female,True,['Battery'],False,Career Readiness,None,"['Interview Preperation', 'Job Searching', 'Resume Help']",None,2020-02-11
+78,79,Aron,Evans,Aron_Evans@myspace.com,4927414114288878076,Male,True,"['Resisting an Officer without Violence', 'Aggrivated Battery', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Web3,None,None,2020-10-29
+79,80,Diego,Campbell,Diego_Campbell@aol.com,3599645559582232843,Male,False,None,False,Programming Readiness,IOS,None,None,2020-06-05
+80,81,Bentley,Alvarez,Bentley_Alvarez@gmail.com,7256954308788893891,Female,True,"['First Offense Prostitution', 'Aggrivated Battery', 'Loitering and Prowling', 'Marijuana Possession']",False,Programming Readiness,Data Science,None,None,2021-10-15
+81,82,Makayla,Stewart,Makayla_Stewart@hotmail.com,274687089381753548,Non-binary,False,None,False,Career Readiness,None,"['Job Searching', 'Interview Preperation', 'Resume Help']",HTML,2020-11-30
+82,83,Adler,Jimenez,Adler_Jimenez@yahoo.com,6831490030412105191,Non-binary,False,None,False,Programming Readiness,Web Development,None,None,2020-03-04
+83,84,Jorge,Mitchell,Jorge_Mitchell@gmail.com,8435633719538706781,Non-binary,False,None,False,Career Readiness,None,"['Job Searching', 'Interview Preperation', 'Resume Help']",None,2020-04-28
+84,85,Lochlan,Evans,Lochlan_Evans@myspace.com,8911082519728857987,Female,True,"['Battery', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Android,None,None,2020-02-29
+85,86,Cain,Parker,Cain_Parker@aol.com,2372309876279890277,Female,True,"['Driving on a Suspended License', 'Aggrivated Battery']",False,Programming Readiness,Web Development,None,HTML,2021-10-11
+86,87,Miller,Cox,Miller_Cox@myspace.com,7533628640241064851,Female,True,"['Homicide', 'Marijuana Possession']",False,Programming Readiness,Android,None,None,2020-09-07
+87,88,Bailee,Reed,Bailee_Reed@gmail.com,404637537079281096,Non-binary,True,['Homicide'],False,Programming Readiness,Web Development,None,HTML,2021-02-18
+88,89,Kori,Thomas,Kori_Thomas@gmail.com,1850806672133889467,Female,True,"['First Offense Prostitution', 'Homicide']",False,Programming Readiness,Data Science,None,None,2020-10-19
+89,90,Javier,Morales,Javier_Morales@gmail.com,2300752706345589490,Male,True,"['Driving on a Suspended License', 'Homicide']",False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",None,2021-08-27
+90,91,River,Anderson,River_Anderson@aol.com,226822733515099389,Male,True,['Marijuana Possession'],False,Programming Readiness,Android,None,None,2020-08-14
+91,92,Jakari,King,Jakari_King@icloud.com,7013039315431197902,Female,True,"['Loitering and Prowling', 'Marijuana Possession']",False,Career Readiness,None,"['Resume Help', 'Job Searching']",None,2020-01-15
+92,93,Harper,Castillo,Harper_Castillo@icloud.com,2382040116653232396,Non-binary,True,"['Petit Theft', 'First Offense Prostitution', 'Resisting an Officer without Violence', 'Battery on Law Enforcement Officer']",True,Life Coaching,None,None,None,2020-10-22
+93,94,King,Long,King_Long@aol.com,3691496231042882904,Non-binary,False,None,False,Career Readiness,None,['Interview Preperation'],None,2020-07-06
+94,95,Winnie,Adams,Winnie_Adams@icloud.com,5120646524620521513,Non-binary,True,"['Marijuana Possession', 'Resisting an Officer without Violence']",True,Career Readiness,None,"['Job Searching', 'Resume Help']",None,2020-12-13
+95,96,Louisa,Lewis,Louisa_Lewis@aol.com,2950329108660538755,Non-binary,True,['Tax Evasion'],False,Career Readiness,None,['Interview Preperation'],Python,2020-01-06
+96,97,Natalia,Evans,Natalia_Evans@icloud.com,1157015547096277006,Female,True,"['First Offense Prostitution', 'Battery', 'Marijuana Possession', 'Homicide']",False,Programming Readiness,Data Science,None,Java,2020-06-12
+97,98,Caspian,Sanders,Caspian_Sanders@gmail.com,91762022095523346,Non-binary,True,"['Resisting an Officer without Violence', 'Battery on Law Enforcement Officer']",True,Career Readiness,None,"['Job Searching', 'Resume Help']",None,2020-04-30
+98,99,Banks,Ross,Banks_Ross@icloud.com,2508451212432072157,Female,True,['First Offense Prostitution'],False,Programming Readiness,Android,None,Python,2020-07-03
+99,100,Rhys,Parker,Rhys_Parker@aol.com,5948772868523755990,Non-binary,True,['Drug Possession'],False,Programming Readiness,Web3,None,None,2020-03-18
+100,101,Amos,Harris,Amos_Harris@yahoo.com,3186749527403276088,Non-binary,True,"['Battery on Law Enforcement Officer', 'Marijuana Possession', 'First Offense Prostitution']",False,Programming Readiness,IOS,None,None,2020-11-02
+101,102,Issac,Jimenez,Issac_Jimenez@myspace.com,5502752831445307689,Male,True,"['Resisting an Officer without Violence', 'Aggrivated Battery', 'Battery on Law Enforcement Officer']",False,Life Coaching,None,None,None,2020-04-16
+102,103,Brock,Scott,Brock_Scott@hotmail.com,3959849641065872382,Female,True,"['Marijuana Possession', 'Battery']",False,Career Readiness,None,"['Resume Help', 'Job Searching', 'Interview Preperation']",Python,2020-04-23
+103,104,Elias,Green,Elias_Green@yahoo.com,4488929984780927252,Female,False,None,False,Programming Readiness,Android,None,None,2020-04-16
+104,105,Dominic,Cruz,Dominic_Cruz@gmail.com,8494137374810959219,Non-binary,True,['Aggrivated Battery'],False,Career Readiness,None,"['Interview Preperation', 'Job Searching', 'Resume Help']",None,2020-08-26
+105,106,Celeste,Hill,Celeste_Hill@gmail.com,3405343739590510580,Non-binary,False,None,False,Programming Readiness,Data Science,None,None,2021-07-16
+106,107,Dennis,Davis,Dennis_Davis@hotmail.com,861221871675577797,Female,True,"['First Offense Prostitution', 'Battery on Law Enforcement Officer', 'Driving on a Suspended License']",False,Career Readiness,None,['Job Searching'],Python,2020-11-27
+107,108,Kobe,Anderson,Kobe_Anderson@icloud.com,3075197290760718484,Male,True,['Driving on a Suspended License'],False,Programming Readiness,Web Development,None,None,2020-02-27
+108,109,Carmelo,Flores,Carmelo_Flores@myspace.com,5408104305521605138,Male,True,"['Tax Evasion', 'Battery']",False,Programming Readiness,Data Science,None,None,2020-07-04
+109,110,Rayan,Wood,Rayan_Wood@aol.com,8898869787168813947,Female,True,"['Petit Theft', 'Felony Battery']",False,Programming Readiness,Data Science,None,None,2020-07-12
+110,111,Bryan,Cruz,Bryan_Cruz@hotmail.com,5194404688322850139,Female,False,None,False,Career Readiness,None,"['Interview Preperation', 'Resume Help', 'Job Searching']",None,2020-07-06
+111,112,Trinity,Howard,Trinity_Howard@icloud.com,2420292985813588079,Female,True,"['Battery on Law Enforcement Officer', 'Marijuana Possession', 'Driving on a Suspended License']",False,Programming Readiness,Web3,None,Python,2020-04-10
+112,113,Grady,Rivera,Grady_Rivera@gmail.com,5004842430503688165,Male,True,"['Felony Battery', 'Agrivated Assult']",False,Programming Readiness,Android,None,None,2020-12-17
+113,114,Felipe,Ruiz,Felipe_Ruiz@icloud.com,7356059301790369921,Non-binary,True,['First Offense Prostitution'],False,Programming Readiness,Data Science,None,None,2021-12-02
+114,115,Crystal,Hall,Crystal_Hall@myspace.com,9161491709717875379,Male,True,"['Aggrivated Battery', 'Loitering and Prowling', 'Homicide', 'Felony Battery']",False,Programming Readiness,Backend,None,None,2020-05-15
+115,116,Mason,Stewart,Mason_Stewart@myspace.com,777930243201500026,Female,True,"['Loitering and Prowling', 'Drug Possession']",False,Programming Readiness,Android,None,None,2020-10-02
+116,117,Elliott,Perez,Elliott_Perez@aol.com,110041333395542146,Male,True,"['Battery on Law Enforcement Officer', 'Driving on a Suspended License', 'Petit Theft', 'Marijuana Possession']",False,Career Readiness,None,"['Resume Help', 'Job Searching', 'Interview Preperation']",Java,2020-08-12
+117,118,Karson,Wilson,Karson_Wilson@icloud.com,8097949781451592328,Male,False,None,False,Career Readiness,None,"['Interview Preperation', 'Job Searching']",None,2020-09-16
+118,119,Calum,Martin,Calum_Martin@gmail.com,8667798584655912236,Male,False,None,False,Life Coaching,None,None,Python,2020-04-26
+119,120,Donovan,Nguyen,Donovan_Nguyen@hotmail.com,3060301261191609542,Female,True,"['Battery on Law Enforcement Officer', 'Driving on a Suspended License']",False,Career Readiness,None,"['Job Searching', 'Resume Help']",Python,2020-09-23
+120,121,Aries,Thomas,Aries_Thomas@icloud.com,7062390149756891278,Female,True,"['Tax Evasion', 'Drug Possession']",False,Programming Readiness,Web3,None,None,2021-01-10
+121,122,Leo,Rodriguez,Leo_Rodriguez@gmail.com,5342247980241737533,Female,True,['Battery on Law Enforcement Officer'],False,Career Readiness,None,['Job Searching'],None,2021-03-19
+122,123,Gage,Nelson,Gage_Nelson@hotmail.com,5896635220839086831,Non-binary,True,"['Petit Theft', 'Battery', 'Drug Possession']",False,Programming Readiness,IOS,None,None,2021-06-02
+123,124,Jair,Nguyen,Jair_Nguyen@icloud.com,6158280014094087729,Female,True,"['Marijuana Possession', 'Agrivated Assult', 'Battery on Law Enforcement Officer', 'Loitering and Prowling']",False,Programming Readiness,Web Development,None,Python,2020-10-09
+124,125,Hayes,Rogers,Hayes_Rogers@icloud.com,6381523470632870243,Female,True,"['Driving on a Suspended License', 'Aggrivated Battery', 'Loitering and Prowling', 'Homicide']",False,Programming Readiness,Android,None,None,2020-07-28
+125,126,Oaklynn,Chavez,Oaklynn_Chavez@gmail.com,6163554037751617446,Male,True,"['Battery on Law Enforcement Officer', 'Felony Battery']",False,Programming Readiness,Web3,None,None,2021-07-18
+126,127,Thea,Mitchell,Thea_Mitchell@aol.com,3129741250495156309,Female,False,None,False,Programming Readiness,Backend,None,None,2020-01-03
+127,128,Mohammad,Garcia,Mohammad_Garcia@aol.com,140448631379766899,Non-binary,True,"['Driving on a Suspended License', 'Battery']",False,Career Readiness,None,"['Job Searching', 'Resume Help', 'Interview Preperation']",Python,2020-02-02
+128,129,Ayla,Smith,Ayla_Smith@aol.com,4514923364481954445,Female,True,"['Driving on a Suspended License', 'Battery on Law Enforcement Officer', 'First Offense Prostitution', 'Felony Battery']",False,Programming Readiness,Android,None,None,2021-03-14
+129,130,Alexander,Watson,Alexander_Watson@aol.com,6423799891762568413,Male,True,"['Loitering and Prowling', 'Homicide']",False,Programming Readiness,Backend,None,None,2020-11-08
+130,131,Branson,Torres,Branson_Torres@hotmail.com,2609269416117988277,Non-binary,True,"['Resisting an Officer without Violence', 'Battery', 'Drug Possession']",False,Programming Readiness,Android,None,Java,2021-06-05
+131,132,Miller,Morris,Miller_Morris@aol.com,3245920489410354264,Non-binary,True,['First Offense Prostitution'],False,Programming Readiness,Web3,None,None,2021-04-30
+132,133,Dayana,Brown,Dayana_Brown@aol.com,5114307622997392644,Female,True,"['Drug Possession', 'Driving on a Suspended License', 'Aggrivated Battery', 'Battery']",False,Programming Readiness,Web3,None,None,2021-02-26
+133,134,Graysen,Price,Graysen_Price@myspace.com,1574851673215408472,Non-binary,True,['Driving on a Suspended License'],False,Programming Readiness,Web Development,None,Python,2020-01-20
+134,135,Reuben,Kelly,Reuben_Kelly@aol.com,1765338648718785514,Female,True,"['Battery', 'Felony Battery', 'Driving on a Suspended License', 'Homicide']",False,Programming Readiness,Web Development,None,None,2020-03-03
+135,136,Joanna,Morgan,Joanna_Morgan@aol.com,7869677022563397366,Female,False,None,False,Career Readiness,None,['Job Searching'],None,2021-12-06
+136,137,Hendrix,Edwards,Hendrix_Edwards@icloud.com,7761324361972578349,Non-binary,True,"['Driving on a Suspended License', 'First Offense Prostitution']",False,Programming Readiness,Data Science,None,None,2020-04-09
+137,138,Cesar,Torres,Cesar_Torres@hotmail.com,569536300959728938,Non-binary,True,"['Agrivated Assult', 'Drug Possession', 'Felony Battery', 'Marijuana Possession']",False,Programming Readiness,Data Science,None,Python,2020-03-24
+138,139,Aron,Johnson,Aron_Johnson@icloud.com,2392039489525427804,Non-binary,True,"['Petit Theft', 'Tax Evasion', 'Felony Battery', 'Battery on Law Enforcement Officer']",False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",Python,2020-04-04
+139,140,Raphael,Cook,Raphael_Cook@hotmail.com,658683032831295070,Male,True,['Battery on Law Enforcement Officer'],False,Career Readiness,None,['Job Searching'],Python,2020-04-23
+140,141,Flynn,Brown,Flynn_Brown@myspace.com,4012294194556308389,Non-binary,True,['Aggrivated Battery'],False,Career Readiness,None,"['Job Searching', 'Interview Preperation', 'Resume Help']",None,2020-07-05
+141,142,Ainsley,Gutierrez,Ainsley_Gutierrez@yahoo.com,8670189341722679692,Male,True,"['Felony Battery', 'Agrivated Assult', 'Marijuana Possession', 'Driving on a Suspended License']",False,Programming Readiness,Data Science,None,None,2021-08-06
+142,143,Ayaan,Bennet,Ayaan_Bennet@icloud.com,688804400725012607,Female,True,"['Battery', 'First Offense Prostitution', 'Aggrivated Battery', 'Resisting an Officer without Violence']",False,Programming Readiness,Web3,None,None,2021-02-22
+143,144,Leland,Moore,Leland_Moore@myspace.com,7881198472776907903,Male,True,['Resisting an Officer without Violence'],False,Programming Readiness,Backend,None,Java,2020-07-06
+144,145,Otis,Chavez,Otis_Chavez@aol.com,8157815614117995889,Non-binary,True,"['First Offense Prostitution', 'Petit Theft', 'Agrivated Assult']",False,Programming Readiness,Data Science,None,Python,2021-04-08
+145,146,Rafael,Miller,Rafael_Miller@hotmail.com,1429999967781549233,Male,True,"['Aggrivated Battery', 'Battery on Law Enforcement Officer', 'Homicide', 'Felony Battery']",False,Programming Readiness,Data Science,None,None,2021-12-15
+146,147,Rosalia,Cook,Rosalia_Cook@yahoo.com,2315628646198208905,Non-binary,True,"['Agrivated Assult', 'Felony Battery', 'Petit Theft']",False,Programming Readiness,Web3,None,None,2021-06-12
+147,148,Isaiah,Green,Isaiah_Green@gmail.com,8644572480522025729,Female,True,"['Agrivated Assult', 'Loitering and Prowling', 'Driving on a Suspended License']",False,Career Readiness,None,"['Resume Help', 'Job Searching']",None,2021-01-26
+148,149,Leonardo,Adams,Leonardo_Adams@gmail.com,1197514594515441112,Female,False,None,False,Career Readiness,None,"['Resume Help', 'Interview Preperation', 'Job Searching']",None,2020-01-25
+149,150,Carter,Nelson,Carter_Nelson@myspace.com,8813781099775899271,Female,True,"['Loitering and Prowling', 'Battery', 'Aggrivated Battery', 'Battery on Law Enforcement Officer']",False,Life Coaching,None,None,HTML,2020-08-30
+150,151,Gordon,Hall,Gordon_Hall@icloud.com,293318182041013070,Non-binary,True,"['Homicide', 'Battery', 'First Offense Prostitution']",False,Programming Readiness,Web3,None,Java,2020-08-18
+151,152,Jacqueline,Gonzales,Jacqueline_Gonzales@icloud.com,5020941862436508249,Male,True,"['Battery on Law Enforcement Officer', 'Loitering and Prowling', 'Agrivated Assult', 'Homicide']",False,Programming Readiness,Android,None,None,2021-06-19
+152,153,Harley,Flores,Harley_Flores@yahoo.com,384960342525718692,Female,True,"['Marijuana Possession', 'Homicide']",False,Programming Readiness,Data Science,None,Python,2021-01-11
+153,154,Bexley,Jackson,Bexley_Jackson@hotmail.com,4483966494456731730,Female,False,None,False,Programming Readiness,Web3,None,None,2021-01-27
+154,155,Myra,Moore,Myra_Moore@myspace.com,3770017618260875327,Female,True,"['Homicide', 'Petit Theft']",False,Programming Readiness,Android,None,None,2020-08-25
+155,156,Isabel,Thomas,Isabel_Thomas@icloud.com,5361447089856794997,Male,True,"['Agrivated Assult', 'Battery', 'Battery on Law Enforcement Officer']",False,Career Readiness,None,['Job Searching'],None,2021-01-10
+156,157,Kaison,Patel,Kaison_Patel@aol.com,2008909148406272088,Non-binary,True,"['Battery', 'Tax Evasion', 'Felony Battery']",False,Life Coaching,None,None,None,2020-11-24
+157,158,Landry,Price,Landry_Price@gmail.com,1262549972136368068,Non-binary,True,['Aggrivated Battery'],False,Programming Readiness,Data Science,None,HTML,2020-03-27
+158,159,Marceline,Anderson,Marceline_Anderson@hotmail.com,4881580311524795188,Female,True,"['Petit Theft', 'Driving on a Suspended License']",False,Programming Readiness,Web Development,None,HTML,2021-08-23
+159,160,Sevyn,Gray,Sevyn_Gray@hotmail.com,8220156105396444799,Male,True,"['Felony Battery', 'Agrivated Assult']",False,Career Readiness,None,['Interview Preperation'],None,2021-10-13
+160,161,Harry,Roberts,Harry_Roberts@myspace.com,3187202948399612371,Male,True,"['Loitering and Prowling', 'Resisting an Officer without Violence']",False,Programming Readiness,Data Science,None,Python,2021-12-31
+161,162,Anaya,Jackson,Anaya_Jackson@yahoo.com,3310985861645139918,Male,True,['Aggrivated Battery'],False,Career Readiness,None,['Job Searching'],None,2021-03-19
+162,163,Joel,Flores,Joel_Flores@icloud.com,6649912553260523799,Male,True,"['Aggrivated Battery', 'Petit Theft', 'Homicide']",False,Career Readiness,None,['Job Searching'],None,2021-05-14
+163,164,Braylon,Morris,Braylon_Morris@aol.com,930105141665914433,Female,True,['Agrivated Assult'],False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",None,2020-11-14
+164,165,Vincent,Perez,Vincent_Perez@aol.com,536921350074852141,Female,True,"['Homicide', 'Battery', 'Tax Evasion', 'Driving on a Suspended License']",False,Programming Readiness,IOS,None,Java,2020-11-27
+165,166,Kira,Bennet,Kira_Bennet@gmail.com,4927870509716257958,Non-binary,True,"['Agrivated Assult', 'Homicide', 'Loitering and Prowling', 'Drug Possession']",False,Career Readiness,None,"['Resume Help', 'Job Searching']",Java,2020-03-24
+166,167,Ariana,Morris,Ariana_Morris@aol.com,618517944179036661,Female,True,"['Petit Theft', 'Homicide', 'Drug Possession']",False,Career Readiness,None,"['Resume Help', 'Interview Preperation']",None,2020-08-06
+167,168,Finley,Cook,Finley_Cook@icloud.com,2878246718909648869,Non-binary,True,"['Homicide', 'Petit Theft', 'Tax Evasion']",False,Programming Readiness,Android,None,None,2021-06-21
+168,169,Walker,Hill,Walker_Hill@icloud.com,3427381711746781039,Female,True,['Battery'],False,Life Coaching,None,None,None,2021-09-25
+169,170,Kayson,Evans,Kayson_Evans@gmail.com,9039603382929421744,Female,True,"['Loitering and Prowling', 'First Offense Prostitution']",False,Programming Readiness,Web3,None,None,2021-12-11
+170,171,Moshe,Smith,Moshe_Smith@myspace.com,7295775808773127531,Female,True,"['Resisting an Officer without Violence', 'Driving on a Suspended License', 'Battery']",False,Programming Readiness,Data Science,None,None,2020-12-28
+171,172,Rosalee,Torres,Rosalee_Torres@hotmail.com,2570075597768442909,Non-binary,True,"['Drug Possession', 'Loitering and Prowling', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Web Development,None,None,2021-03-29
+172,173,Jagger,Ortiz,Jagger_Ortiz@aol.com,5818035216050605939,Male,True,"['Battery on Law Enforcement Officer', 'Petit Theft']",False,Life Coaching,None,None,None,2021-04-19
+173,174,Jake,Hughes,Jake_Hughes@aol.com,8254765961673442681,Non-binary,False,None,False,Life Coaching,None,None,HTML,2021-02-26
+174,175,Zayne,Evans,Zayne_Evans@hotmail.com,4046433693380276823,Female,True,['Petit Theft'],False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",Python,2020-04-14
+175,176,Maximilian,Ramirez,Maximilian_Ramirez@aol.com,894465836701230011,Male,True,"['Loitering and Prowling', 'Aggrivated Battery']",False,Programming Readiness,Backend,None,Python,2021-04-23
+176,177,Darius,Cruz,Darius_Cruz@icloud.com,4633507761270925147,Male,True,"['Driving on a Suspended License', 'Petit Theft', 'Battery', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Web Development,None,None,2020-04-07
+177,178,Ulises,Ramirez,Ulises_Ramirez@icloud.com,2487629735820497658,Male,True,"['Aggrivated Battery', 'Homicide', 'Resisting an Officer without Violence', 'Driving on a Suspended License']",False,Programming Readiness,Web3,None,None,2021-02-04
+178,179,Elliot,Sanchez,Elliot_Sanchez@aol.com,4543373220579468807,Female,True,"['Felony Battery', 'Loitering and Prowling', 'Driving on a Suspended License']",False,Programming Readiness,Web3,None,Java,2020-01-22
+179,180,Marley,Taylor,Marley_Taylor@myspace.com,1876367765640692313,Non-binary,True,"['Drug Possession', 'First Offense Prostitution', 'Petit Theft']",False,Programming Readiness,Backend,None,None,2020-02-01
+180,181,Adam,Rivera,Adam_Rivera@yahoo.com,7448402497803086012,Non-binary,True,"['Battery on Law Enforcement Officer', 'Driving on a Suspended License', 'Petit Theft']",False,Programming Readiness,Data Science,None,None,2021-12-02
+181,182,Jaxon,Campbell,Jaxon_Campbell@yahoo.com,98692027017070681,Female,True,['Felony Battery'],False,Programming Readiness,Web Development,None,None,2021-03-13
+182,183,Gloria,Thompson,Gloria_Thompson@aol.com,3762066522249322854,Non-binary,True,"['Drug Possession', 'Marijuana Possession', 'Loitering and Prowling', 'Driving on a Suspended License']",False,Career Readiness,None,['Job Searching'],None,2020-08-15
+183,184,Gael,Roberts,Gael_Roberts@yahoo.com,3671678345564723410,Female,True,"['Drug Possession', 'Felony Battery', 'Resisting an Officer without Violence', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Android,None,None,2020-11-28
+184,185,Eliana,Anderson,Eliana_Anderson@myspace.com,4783490102773491053,Female,True,"['Petit Theft', 'Aggrivated Battery']",False,Programming Readiness,Data Science,None,Python,2020-01-21
+185,186,Jillian,Carter,Jillian_Carter@icloud.com,8213668707191110690,Male,True,"['Driving on a Suspended License', 'First Offense Prostitution', 'Marijuana Possession']",True,Programming Readiness,Android,None,Python,2021-01-03
+186,187,Van,Hughes,Van_Hughes@icloud.com,867212566819221446,Female,True,"['Petit Theft', 'Battery', 'Felony Battery']",False,Programming Readiness,Web Development,None,None,2021-02-27
+187,188,Layton,Harris,Layton_Harris@hotmail.com,4165121871124545874,Non-binary,False,None,False,Life Coaching,None,None,None,2021-09-15
+188,189,Malachi,Garcia,Malachi_Garcia@myspace.com,7515218288465397787,Female,True,"['Homicide', 'Loitering and Prowling', 'First Offense Prostitution']",False,Programming Readiness,Android,None,Java,2020-05-09
+189,190,Ahmed,Parker,Ahmed_Parker@aol.com,3465738913421394093,Male,True,"['Driving on a Suspended License', 'Loitering and Prowling']",False,Career Readiness,None,['Interview Preperation'],Java,2020-07-07
+190,191,Ledger,Watson,Ledger_Watson@gmail.com,277546588424135440,Female,True,['Homicide'],False,Life Coaching,None,None,None,2020-08-01
+191,192,Levi,Jimenez,Levi_Jimenez@icloud.com,232122405465979206,Female,False,None,False,Career Readiness,None,"['Job Searching', 'Resume Help']",None,2021-04-27
+192,193,Chanel,Morgan,Chanel_Morgan@yahoo.com,7363863642610353237,Non-binary,True,"['Homicide', 'First Offense Prostitution', 'Loitering and Prowling']",False,Programming Readiness,IOS,None,None,2021-10-18
+193,194,Francis,Patel,Francis_Patel@hotmail.com,5972620828648464136,Non-binary,True,['Petit Theft'],False,Career Readiness,None,"['Interview Preperation', 'Job Searching', 'Resume Help']",None,2020-03-31
+194,195,Kaden,Campbell,Kaden_Campbell@gmail.com,3464517072852296005,Male,False,None,False,Programming Readiness,Web Development,None,None,2020-03-13
+195,196,Coraline,Kelly,Coraline_Kelly@hotmail.com,2110843396637869622,Male,False,None,True,Programming Readiness,Web3,None,None,2020-03-17
+196,197,Keith,Peterson,Keith_Peterson@myspace.com,4111441171719043320,Female,True,"['Aggrivated Battery', 'Battery on Law Enforcement Officer', 'First Offense Prostitution']",False,Programming Readiness,Backend,None,HTML,2020-02-06
+197,198,Fernanda,Harris,Fernanda_Harris@icloud.com,9149121249377496685,Female,True,"['Tax Evasion', 'Agrivated Assult', 'First Offense Prostitution', 'Aggrivated Battery']",False,Programming Readiness,Web3,None,None,2020-02-25
+198,199,Miles,Stewart,Miles_Stewart@gmail.com,3823716154968672630,Female,True,"['Felony Battery', 'Driving on a Suspended License', 'Resisting an Officer without Violence']",False,Programming Readiness,Data Science,None,Python,2020-05-04
+199,200,Bodhi,Brooks,Bodhi_Brooks@aol.com,6808605582842674042,Female,True,"['Tax Evasion', 'Battery on Law Enforcement Officer']",True,Career Readiness,None,['Interview Preperation'],None,2020-10-31
+200,201,Jaycee,Nguyen,Jaycee_Nguyen@hotmail.com,1914965858036654120,Female,True,['First Offense Prostitution'],False,Life Coaching,None,None,None,2021-10-24
+201,202,Brandon,Jackson,Brandon_Jackson@yahoo.com,1371920988107468968,Male,True,['Driving on a Suspended License'],False,Life Coaching,None,None,Python,2021-12-15
+202,203,Dante,Adams,Dante_Adams@hotmail.com,8997171613678599693,Non-binary,True,"['Resisting an Officer without Violence', 'Battery on Law Enforcement Officer', 'Homicide', 'Drug Possession']",False,Life Coaching,None,None,None,2020-01-16
+203,204,Caspian,White,Caspian_White@yahoo.com,1807455025143072469,Non-binary,True,"['Felony Battery', 'Tax Evasion', 'Petit Theft', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Web3,None,None,2020-09-25
+204,205,Meadow,Allen,Meadow_Allen@aol.com,4703426974914975013,Male,True,"['Loitering and Prowling', 'Aggrivated Battery', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Android,None,None,2020-10-26
+205,206,Vincenzo,Mendoza,Vincenzo_Mendoza@aol.com,3750525514179583596,Female,True,"['Resisting an Officer without Violence', 'Battery on Law Enforcement Officer', 'Homicide']",True,Programming Readiness,Web3,None,None,2021-07-06
+206,207,Rohan,Carter,Rohan_Carter@aol.com,2753908651552690990,Female,True,['Battery'],False,Career Readiness,None,['Job Searching'],None,2020-01-29
+207,208,Kalel,Lewis,Kalel_Lewis@aol.com,1749732585219355837,Female,True,"['Loitering and Prowling', 'Aggrivated Battery', 'Agrivated Assult', 'Drug Possession']",False,Career Readiness,None,"['Job Searching', 'Resume Help']",Python,2020-05-31
+208,209,Bentley,Edwards,Bentley_Edwards@aol.com,4152280654126425492,Non-binary,True,"['Felony Battery', 'Battery on Law Enforcement Officer']",False,Programming Readiness,IOS,None,None,2020-05-19
+209,210,Malani,Roberts,Malani_Roberts@myspace.com,1162157058985440039,Male,True,"['Driving on a Suspended License', 'Battery', 'First Offense Prostitution', 'Drug Possession']",False,Career Readiness,None,['Job Searching'],None,2021-11-09
+210,211,Aria,Peterson,Aria_Peterson@aol.com,7901079279092288121,Male,True,"['Aggrivated Battery', 'Petit Theft', 'Drug Possession']",False,Programming Readiness,Android,None,None,2020-01-07
+211,212,Lennox,Diaz,Lennox_Diaz@hotmail.com,7583470748737989800,Non-binary,True,"['Agrivated Assult', 'Resisting an Officer without Violence', 'Tax Evasion']",False,Programming Readiness,IOS,None,None,2020-01-04
+212,213,Yehuda,Gonzales,Yehuda_Gonzales@hotmail.com,2435426389826217290,Female,False,None,False,Programming Readiness,IOS,None,None,2021-11-30
+213,214,Cason,Baker,Cason_Baker@gmail.com,424342842238425731,Female,True,"['Drug Possession', 'Battery', 'Aggrivated Battery', 'Felony Battery']",False,Programming Readiness,Android,None,Python,2020-03-27
+214,215,Westley,Watson,Westley_Watson@icloud.com,1639586439567043031,Female,True,"['Homicide', 'Driving on a Suspended License']",False,Programming Readiness,Web3,None,None,2020-10-11
+215,216,Corinne,Gutierrez,Corinne_Gutierrez@aol.com,7526271130060457263,Male,False,None,False,Programming Readiness,Web Development,None,None,2020-05-27
+216,217,Matthias,Hall,Matthias_Hall@myspace.com,1025718514780757801,Female,True,"['Felony Battery', 'Aggrivated Battery', 'First Offense Prostitution']",False,Career Readiness,None,"['Resume Help', 'Job Searching', 'Interview Preperation']",Java,2021-01-10
+217,218,Fabian,Morris,Fabian_Morris@aol.com,1279742507783801915,Male,True,"['Resisting an Officer without Violence', 'Marijuana Possession', 'Tax Evasion']",False,Programming Readiness,Data Science,None,None,2020-10-09
+218,219,Riggs,Ramirez,Riggs_Ramirez@aol.com,1507050750068060621,Male,True,"['Tax Evasion', 'Petit Theft']",False,Programming Readiness,Android,None,None,2020-12-24
+219,220,Winston,Turner,Winston_Turner@yahoo.com,3331659143784880010,Non-binary,True,"['Battery on Law Enforcement Officer', 'Resisting an Officer without Violence']",False,Programming Readiness,Web3,None,None,2020-02-18
+220,221,Arielle,Walker,Arielle_Walker@myspace.com,6149953112727719233,Female,True,['Homicide'],True,Programming Readiness,Backend,None,Python,2020-11-21
+221,222,Caroline,Nelson,Caroline_Nelson@hotmail.com,2704470770831139747,Non-binary,True,['Felony Battery'],False,Programming Readiness,Web3,None,Java,2021-05-31
+222,223,David,Lopez,David_Lopez@icloud.com,6196020218216850740,Male,True,"['Tax Evasion', 'Agrivated Assult', 'Battery on Law Enforcement Officer', 'Felony Battery']",False,Career Readiness,None,['Interview Preperation'],None,2021-04-25
+223,224,Zane,Roberts,Zane_Roberts@hotmail.com,4361602033393877557,Male,True,"['Driving on a Suspended License', 'Petit Theft', 'Felony Battery', 'Battery on Law Enforcement Officer']",True,Career Readiness,None,"['Interview Preperation', 'Resume Help', 'Job Searching']",None,2020-12-13
+224,225,Alexis,Gray,Alexis_Gray@aol.com,5069921897518750439,Female,True,"['Battery on Law Enforcement Officer', 'Loitering and Prowling', 'Felony Battery']",False,Career Readiness,None,"['Resume Help', 'Job Searching', 'Interview Preperation']",None,2020-05-12
+225,226,Avery,James,Avery_James@gmail.com,1451603755751029347,Non-binary,True,"['Resisting an Officer without Violence', 'Marijuana Possession', 'Aggrivated Battery', 'Battery']",False,Programming Readiness,Android,None,None,2020-10-14
+226,227,Mckenzie,James,Mckenzie_James@aol.com,981301578474727622,Non-binary,True,"['Resisting an Officer without Violence', 'Aggrivated Battery', 'Petit Theft', 'Felony Battery']",False,Career Readiness,None,"['Interview Preperation', 'Resume Help', 'Job Searching']",None,2021-07-04
+227,228,Damien,Lewis,Damien_Lewis@aol.com,3001779679979583905,Male,True,"['Loitering and Prowling', 'Marijuana Possession', 'Agrivated Assult']",False,Career Readiness,None,"['Job Searching', 'Resume Help', 'Interview Preperation']",None,2021-01-27
+228,229,Riley,Harris,Riley_Harris@gmail.com,7047085111523073279,Non-binary,True,"['Marijuana Possession', 'Driving on a Suspended License', 'Petit Theft']",False,Programming Readiness,Web Development,None,None,2021-09-06
+229,230,Greyson,Ward,Greyson_Ward@icloud.com,2818629994954626010,Male,False,None,False,Programming Readiness,Web3,None,None,2020-10-05
+230,231,Leo,Rogers,Leo_Rogers@icloud.com,6825834085959888262,Non-binary,True,"['Loitering and Prowling', 'Battery', 'Battery on Law Enforcement Officer', 'Petit Theft']",False,Programming Readiness,Data Science,None,None,2021-09-26
+231,232,Esme,Price,Esme_Price@yahoo.com,3405381909056426471,Female,True,"['Homicide', 'Resisting an Officer without Violence']",False,Career Readiness,None,"['Job Searching', 'Resume Help', 'Interview Preperation']",None,2020-11-11
+232,233,Mauricio,Gomez,Mauricio_Gomez@yahoo.com,1692581358263067255,Non-binary,True,"['Marijuana Possession', 'Homicide']",False,Life Coaching,None,None,None,2021-11-15
+233,234,Ellie,Chavez,Ellie_Chavez@gmail.com,7408518646054823153,Non-binary,True,"['Resisting an Officer without Violence', 'Agrivated Assult']",False,Programming Readiness,IOS,None,None,2020-03-22
+234,235,Nala,Campbell,Nala_Campbell@aol.com,6988296557233896908,Female,True,"['First Offense Prostitution', 'Tax Evasion', 'Homicide']",False,Programming Readiness,Web Development,None,Python,2021-07-19
+235,236,Casen,Rivera,Casen_Rivera@icloud.com,5245209657808244403,Non-binary,True,['Homicide'],False,Programming Readiness,Web Development,None,None,2020-05-11
+236,237,Tessa,Chavez,Tessa_Chavez@gmail.com,470961397154786505,Non-binary,True,"['Battery on Law Enforcement Officer', 'First Offense Prostitution']",False,Programming Readiness,Data Science,None,None,2020-04-19
+237,238,Jamal,Turner,Jamal_Turner@hotmail.com,8151095523360439269,Male,True,"['Homicide', 'Marijuana Possession']",False,Programming Readiness,Backend,None,None,2021-02-16
+238,239,Callen,Gray,Callen_Gray@aol.com,1385058774797248627,Non-binary,True,"['Battery on Law Enforcement Officer', 'Felony Battery']",False,Programming Readiness,Web Development,None,Java,2021-10-22
+239,240,Evan,Hughes,Evan_Hughes@gmail.com,4304053215971543656,Male,True,['Battery on Law Enforcement Officer'],False,Programming Readiness,Data Science,None,None,2020-07-04
+240,241,Ezra,Sanchez,Ezra_Sanchez@aol.com,4107627290858017322,Female,True,"['Petit Theft', 'First Offense Prostitution']",False,Career Readiness,None,['Job Searching'],None,2021-04-23
+241,242,Keaton,Lewis,Keaton_Lewis@aol.com,8590348249134830883,Non-binary,True,"['Loitering and Prowling', 'Petit Theft', 'Agrivated Assult']",False,Career Readiness,None,['Resume Help'],None,2021-11-12
+242,243,Jad,Evans,Jad_Evans@yahoo.com,7232007005971974446,Non-binary,True,"['Driving on a Suspended License', 'First Offense Prostitution', 'Resisting an Officer without Violence']",False,Life Coaching,None,None,None,2021-04-19
+243,244,Lexie,Gomez,Lexie_Gomez@icloud.com,4286917652288523249,Female,True,"['Aggrivated Battery', 'Tax Evasion', 'Battery', 'Driving on a Suspended License']",False,Career Readiness,None,"['Resume Help', 'Interview Preperation', 'Job Searching']",None,2020-02-16
+244,245,Kora,Mendoza,Kora_Mendoza@aol.com,2095687277674481935,Non-binary,True,"['Drug Possession', 'Resisting an Officer without Violence']",False,Career Readiness,None,"['Interview Preperation', 'Job Searching', 'Resume Help']",None,2021-05-13
+245,246,Roland,Murphy,Roland_Murphy@gmail.com,5415130617805042622,Non-binary,True,"['Agrivated Assult', 'Battery on Law Enforcement Officer']",False,Programming Readiness,Android,None,Python,2021-03-22
+246,247,Greta,Chavez,Greta_Chavez@gmail.com,7589112139100734702,Female,True,"['Aggrivated Battery', 'Homicide', 'Battery on Law Enforcement Officer']",False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",None,2020-06-26
+247,248,Cassius,Hernandez,Cassius_Hernandez@yahoo.com,5155485419978683475,Female,True,"['Loitering and Prowling', 'Felony Battery']",False,Career Readiness,None,"['Interview Preperation', 'Resume Help']",Python,2021-12-05
+248,249,Kyson,Patel,Kyson_Patel@gmail.com,4323035863476118210,Male,False,None,False,Programming Readiness,IOS,None,None,2020-06-09
+249,250,Esteban,Gonzales,Esteban_Gonzales@icloud.com,1734323151336616772,Female,True,"['Tax Evasion', 'Marijuana Possession']",False,Career Readiness,None,"['Resume Help', 'Interview Preperation', 'Job Searching']",None,2020-03-09
