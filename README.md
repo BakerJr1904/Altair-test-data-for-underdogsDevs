@@ -10,6 +10,7 @@ They are a group of software engineers helping aspiring developers who are eithe
 economically disadvantaged background or formerly incarcerated. They are creating opportunities 
 
 in tech for people who might not otherwise get an opportunity. They were founded in September of 2020
+
 They currently depend on 100% volunteer support.
 ### Unemployment and Poverty
 Employment has long been recognized as having a negative correlation with crime (Uggen, 1999; Uggen et al., 2005).<br/>
