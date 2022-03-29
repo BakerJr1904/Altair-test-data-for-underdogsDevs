@@ -25,7 +25,6 @@ The strongest predictor for recidivism: poverty + unemployment.
 ### Recidivism
 
 According to data from the U.S. Bureau of Justice Statistics (BJS), 67.8% of released state 
-
 prisoners were arrested for a new crime within three years, and 76.7% were arrested within five
 years (Durose, Cooper, & Snyder, 2014). Reducing recidivism not only protects society at large,
 but also improves the life quality of individual ex-prisoners.<br/>
