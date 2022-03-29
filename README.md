@@ -32,6 +32,4 @@ years (Durose, Cooper, & Snyder, 2014). Reducing recidivism not only protects so
 
 but also improves the life quality of individual ex-prisoners.<br/>
 
-Incarceration rates in the U.S. began increasing dramatically in the 1990s. The U.S. has the
-
-highest prison population of any country, comprising 25% of the world’s prisoners.
+Incarceration rates in the U.S. began increasing dramatically in the 1990s. The U.S. has the highest prison population of any country, comprising 25% of the world’s prisoners.
