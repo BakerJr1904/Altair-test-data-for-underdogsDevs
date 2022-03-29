@@ -29,6 +29,5 @@ According to data from the U.S. Bureau of Justice Statistics (BJS), 67.8% of rel
 prisoners were arrested for a new crime within three years, and 76.7% were arrested within five
 
 years (Durose, Cooper, & Snyder, 2014). Reducing recidivism not only protects society at large,
-
 but also improves the life quality of individual ex-prisoners.<br/>
 Incarceration rates in the U.S. began increasing dramatically in the 1990s. The U.S. has the highest prison population of any country, comprising 25% of the world’s prisoners.
