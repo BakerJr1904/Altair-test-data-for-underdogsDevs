@@ -19,7 +19,6 @@ Employment has long been recognized as having a negative correlation with crime 
 
 Uggen et al., 2005).<br/>
 Researchers also have found that employment is associated with reduced recidivism(Skardhamar & Telle, 2012).<br/>
-
 The strongest predictor for recidivism: poverty + unemployment.
 
 ### Recidivism
