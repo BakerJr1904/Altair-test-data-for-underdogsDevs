@@ -1,5 +1,4 @@
 # Altair Visualization for Underdogs Devs
-
 This repository is incomplete. I am in the middle of developing visualizations using Altair, as
 the Machine Learning Engineer, for [UnderdogDevs.org](https://www.underdogdevs.org) a non-profit organization.<br/><br/>
 
